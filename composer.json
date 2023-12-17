@@ -1,21 +1,14 @@
 {
-    "name": "orhanerday/open-ai",
-    "description": "OpenAI GPT-3 Api Client in PHP",
+    "name": "hsc-co-works-dev-team/open-ai",
+    "description": "OpenAI GPT-3 Api Client in PHP >= 7.3",
     "keywords": [
-        "orhanerday",
+        "open-ai-php73",
         "open-ai"
     ],
-    "homepage": "https://github.com/orhanerday/open-ai",
+    "homepage": "https://github.com/HSC-CoWorks-Dev-Team/open-ai",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Orhan Erday",
-            "email": "orhanerday@gmail.com",
-            "role": "Developer"
-        }
-    ],
     "require": {
-        "php": ">=7.4",
+        "php": ">=7.3",
         "ext-curl": "*",
         "ext-json": "*"
     },
